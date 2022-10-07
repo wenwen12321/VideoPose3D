@@ -1,0 +1,5 @@
+# ignore all .jpg file
+*.jpg
+
+# ignore 3dhp
+/data/3dhp
